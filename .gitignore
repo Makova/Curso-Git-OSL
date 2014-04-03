@@ -1,8 +1,0 @@
-# Ignoramos todos los archivos que terminen en "~"
-*~
-
-# Ignoramos todos los archivos que terminen en ".temp"
-*.temp
-
-# Ignoramos todos los archivos que se llamen "passwords.txt", "passwords.c", "passwords.csv"...
-passwords.*
