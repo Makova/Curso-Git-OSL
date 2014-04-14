@@ -1,4 +1,4 @@
 Curso-Git-OSL
 =============
 
-Curso Git Manu
+*Curso Git por Manu*
