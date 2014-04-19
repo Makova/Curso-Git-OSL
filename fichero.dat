@@ -2,3 +2,6 @@ Creado de nuevas
 Modificado en metarama el fichero.dat
 
 Probando CI con Travis para ver si funciona
+
+Añadida nueva llave pública para ssh, había instalado de 
+nuevo Ubuntu 14:04 y no coincidian
