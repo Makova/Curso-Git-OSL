@@ -1,6 +1,6 @@
 Curso-Git-OSL
 =============
 
-*Curso `git` por Manu*
+Ejercicios por *Manu* para el [curso de `git`](https://github.com/oslugr/curso-git) 
 
 [![Build Status](https://travis-ci.org/oslugr/repo-ejemplo.svg?branch=master)](https://travis-ci.org/Makova/Curso-Git-OSL/builds)
